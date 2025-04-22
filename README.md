@@ -63,4 +63,4 @@ This repository contains a set of Jupyter Notebooks focused on various fundament
 
 ### 📌 Notes
 
-This branch `assignment` contains only Jupyter notebooks focused on educational ML exercises.
+This branch is actively evolving. I may continue adding more tasks, experiments, and utilities in the future as I explore more machine learning concepts. Stay tuned for updates!
