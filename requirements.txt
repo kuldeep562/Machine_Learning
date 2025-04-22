@@ -1,0 +1,12 @@
+Python
+keras
+librosa
+matplotlib
+numpy
+pandas
+scipy
+seaborn
+skfeature
+skimage
+sklearn
+warnings
