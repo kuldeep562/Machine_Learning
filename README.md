@@ -20,7 +20,7 @@ A set of structured Jupyter notebooks focused on:
 
 ---
 
-### [`brainstrom zone`](https://github.com/yourusername/ml-tasks/tree/Brainstorm zone)
+### [`brainstrom zone`](https://github.com/yourusername/ml-tasks/tree/Brainstorm-zone)
 A practical, evolving collection of:
 - Task-based notebooks (e.g., Titanic classification, image recognition)
 - Unsupervised learning like K-Means and Fuzzy C-Means
