@@ -6,29 +6,29 @@ This repository contains a set of Jupyter Notebooks focused on various fundament
 
 ## 📂 Contents of `assignment/` Folder
 
-| Notebook Filename                  | Description |
-|------------------------------------|-------------|
-| Q-1 MachineLearning.ipynb          | Handle missing values and duplicate values |
-| Q-2&3 MachineLearning.ipynb        | Implement Simple Linear Regression and compute R² and RMSE |
-| Q-4&5 MachineLearning.ipynb        | Implement k-means clustering from scratch and using a library |
-| Q-6 MachineLearning.ipynb          | Implement KNN from scratch and via library, use Elbow method for K |
-| Q-7MachineLearning.ipynb           | Implement SVM and perform hyperparameter tuning |
-| Q-08 MachineLearning.ipynb         | Implement Lagrange Multipliers via given dataset |
-| Q-9 MachineLearning.ipynb          | Compute Gini Index, Chi-square, Entropy, and Information Gain |
-| Q-10 MachineLearning.ipynb         | Implement formulas for various distance measures |
-| Q-11 MachineLearning.ipynb         | Evaluate models using supervised classification metrics |
-| Q-12 MachineLearning.ipynb         | Implement SVM for classification and regression |
-| Q-13 MachineLearning.ipynb         | Perform feature scaling and standardization |
-| Q-14 MachineLearning.ipynb         | Feature selection using filter and wrapper methods |
-| Q-15 MachineLearning.ipynb         | Decision Trees from scratch and library with hyperparameter tuning |
-| Q-16 MachineLearning.ipynb         | Implement Random Forest with hyperparameter tuning |
-| Q-17 MachineLearning.ipynb         | Naïve Bayes implementation using library |
-| Q-18 MachineLearning.ipynb         | Bagging using KNN, SVM, and Decision Trees |
-| Q-19 MachineLearning.ipynb         | AdaBoost for face recognition |
-| Q-20 MachineLearning.ipynb         | Image classification using SVM, KNN, and Logistic Regression |
-| KMeans.ipynb                       | Clustering from scratch and using sklearn; plots initial and final centroids |
-| KNN.ipynb                          | K-Nearest Neighbors: manual and sklearn implementation with plotted results |
-| SVM.ipynb                          | SVM using different kernels with sklearn; includes kernel comparison barplot |
+| Notebook Filename                  |
+|-------------------------------------------------|
+| WAP to handle missing values and Duplicate values.ipynb |
+| Implement Simple Linear Regression and compute R² and RMSE |
+| Implement k-means clustering from scratch and using a library |
+| Implement KNN from scratch and via library, use Elbow method for K |
+| Implement SVM and perform hyperparameter tuning |
+| WAP to implement Lagrange Multipliers via given dataset.ipynb |
+| Compute Gini Index, Chi-square, Entropy, and Information Gain |
+| Implement formulas for various distance measures |
+| Evaluate models using supervised classification metrics |
+| Implement SVM for classification and regression |
+| Perform feature scaling and standardization |
+| Feature selection using filter and wrapper methods |
+| Decision Trees from scratch and library with hyperparameter tuning |
+| Implement Random Forest with hyperparameter tuning |
+| Naïve Bayes implementation using library |
+| Bagging using KNN, SVM, and Decision Trees |
+| AdaBoost for face recognition |
+| Image classification using SVM, KNN, and Logistic Regression |
+| Clustering from scratch and using sklearn; plots initial and final centroids |
+| K-Nearest Neighbors: manual and sklearn implementation with plotted results |
+| SVM using different kernels with sklearn; includes kernel comparison barplot |
 
 
 ## 🔧 Getting Started
